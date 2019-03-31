@@ -1,0 +1,1 @@
+g++ -o MockUp main.cc pcre_object.cc SSH_Command.cc spider.cc -lpcre2-8 -lpcre2-16 -lpcre2-32 -lssh2
